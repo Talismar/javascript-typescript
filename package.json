@@ -1,0 +1,30 @@
+{
+  "name": "typescript-priciple-solid",
+  "version": "1.0.0",
+  "description": "Section 25: TypeScript - Principle SOLID (S.O.L.I.D.)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Talismar/javascript-typescript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Talismar/javascript-typescript/issues"
+  },
+  "homepage": "https://github.com/Talismar/javascript-typescript#readme",
+  "devDependencies": {
+    "@typescript-eslint/eslint-plugin": "^5.54.0",
+    "@typescript-eslint/parser": "^5.54.0",
+    "eslint": "^8.35.0",
+    "eslint-config-prettier": "^8.6.0",
+    "eslint-plugin-prettier": "^4.2.1",
+    "prettier": "^2.8.4",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.9.5"
+  }
+}
